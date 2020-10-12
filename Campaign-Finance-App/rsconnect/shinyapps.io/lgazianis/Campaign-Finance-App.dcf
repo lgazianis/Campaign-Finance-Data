@@ -1,0 +1,12 @@
+name: Campaign-Finance-App
+title: Campaign-Finance-App
+username:
+account: lgazianis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2996661
+bundleId: 3730973
+url: https://lgazianis.shinyapps.io/Campaign-Finance-App/
+when: 1602521968.92351
+asMultiple: FALSE
+asStatic: FALSE
